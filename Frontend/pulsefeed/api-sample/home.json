@@ -1,0 +1,109 @@
+{
+  "topStory": {
+    "id": "top-1",
+    "category": "technology",
+    "title": "The changing shape of our connected world",
+    "summary": "From remote work to AI-powered tools, technology is redefining how we live, work and build relationships. As the world becomes more connected, new opportunities — and new challenges — are reshaping our everyday lives.",
+    "imageHeadline": "Cities, people and progress: finding balance in a hyperconnected age",
+    "imageDek": "As technology brings the world closer, cities are reimagining how to keep people, culture and community at the center of progress.",
+    "image": "",
+    "url": "#"
+  },
+  "latest": [
+    {
+      "id": "tech-1",
+      "category": "technology",
+      "title": "AI tools are changing how we work — and what it means for the future",
+      "summary": "From creative tasks to complex analysis, artificial intelligence is helping people do more, faster. But experts say the human touch is still irreplaceable.",
+      "url": "#",
+      "timeAgo": "3h ago",
+      "reliability": {
+        "score": 85
+      }
+    },
+    {
+      "id": "biz-1",
+      "category": "business",
+      "title": "Global markets show cautious optimism as inflation eases",
+      "summary": "Investors are hoping for a more stable year ahead, with signs that inflation is cooling and central banks may shift their focus.",
+      "url": "#",
+      "timeAgo": "5h ago",
+      "reliability": {
+        "score": 78
+      }
+    },
+    {
+      "id": "sci-1",
+      "category": "science",
+      "title": "New study sheds light on the brain’s memory system",
+      "summary": "Researchers have identified key cells that help the brain organize long-term memories, opening doors to new treatments for memory disorders.",
+      "url": "#",
+      "timeAgo": "7h ago",
+      "reliability": {
+        "score": 92
+      }
+    }
+  ],
+  "briefing": [
+    {
+      "id": "world-1",
+      "category": "world",
+      "title": "Peace talks gain momentum in renewed diplomatic push",
+      "summary": "Delegations return to the table as negotiators report progress on several key points.",
+      "url": "#",
+      "timeAgo": "2h ago",
+      "reliability": {
+        "score": 88
+      }
+    },
+    {
+      "id": "tech-2",
+      "category": "technology",
+      "title": "Next-gen batteries could extend EV range by 50%",
+      "summary": "Researchers describe a new cell design that stores more energy in the same space.",
+      "url": "#",
+      "timeAgo": "4h ago",
+      "reliability": {
+        "score": 81
+      }
+    },
+    {
+      "id": "cul-1",
+      "category": "culture",
+      "title": "The power of art in a changing world",
+      "summary": "Museums and galleries are finding new ways to bring people closer to the work.",
+      "url": "#",
+      "timeAgo": "6h ago",
+      "reliability": {
+        "score": 79
+      }
+    }
+  ],
+  "mostRead": [
+    {
+      "id": "mr-1",
+      "title": "The changing shape of our connected world",
+      "url": "#"
+    },
+    {
+      "id": "mr-2",
+      "title": "Global markets show cautious optimism",
+      "url": "#"
+    },
+    {
+      "id": "mr-3",
+      "title": "How to build a healthier digital life",
+      "url": "#"
+    },
+    {
+      "id": "mr-4",
+      "title": "The rise of sustainable cities",
+      "url": "#"
+    },
+    {
+      "id": "mr-5",
+      "title": "Why human connection still matters",
+      "url": "#"
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+[
+  {
+    "id": "world-1",
+    "category": "world",
+    "title": "Peace talks gain momentum in renewed diplomatic push",
+    "summary": "Delegations return to the table as negotiators report progress on several key points.",
+    "url": "#",
+    "timeAgo": "2h ago",
+    "reliability": {
+      "score": 88
+    }
+  },
+  {
+    "id": "world-2",
+    "category": "world",
+    "title": "Shipping routes reopen as regional tensions ease",
+    "summary": "Ports report a steady return of cargo traffic after weeks of delays.",
+    "url": "#",
+    "timeAgo": "9h ago",
+    "reliability": {
+      "score": 80
+    }
+  },
+  {
+    "id": "tech-1",
+    "category": "technology",
+    "title": "AI tools are changing how we work — and what it means for the future",
+    "summary": "From creative tasks to complex analysis, artificial intelligence is helping people do more, faster. But experts say the human touch is still irreplaceable.",
+    "url": "#",
+    "timeAgo": "3h ago",
+    "reliability": {
+      "score": 85
+    }
+  },
+  {
+    "id": "tech-2",
+    "category": "technology",
+    "title": "Next-gen batteries could extend EV range by 50%",
+    "summary": "Researchers describe a new cell design that stores more energy in the same space.",
+    "url": "#",
+    "timeAgo": "4h ago",
+    "reliability": {
+      "score": 81
+    }
+  },
+  {
+    "id": "biz-1",
+    "category": "business",
+    "title": "Global markets show cautious optimism as inflation eases",
+    "summary": "Investors are hoping for a more stable year ahead, with signs that inflation is cooling and central banks may shift their focus.",
+    "url": "#",
+    "timeAgo": "5h ago",
+    "reliability": {
+      "score": 78
+    }
+  },
+  {
+    "id": "biz-2",
+    "category": "business",
+    "title": "Small businesses adapt to a new wave of digital payments",
+    "summary": "Shop owners say faster checkout is bringing in younger customers.",
+    "url": "#",
+    "timeAgo": "10h ago",
+    "reliability": {
+      "score": 74
+    }
+  },
+  {
+    "id": "cul-1",
+    "category": "culture",
+    "title": "The power of art in a changing world",
+    "summary": "Museums and galleries are finding new ways to bring people closer to the work.",
+    "url": "#",
+    "timeAgo": "6h ago",
+    "reliability": {
+      "score": 79
+    }
+  },
+  {
+    "id": "cul-2",
+    "category": "culture",
+    "title": "Independent bookshops see a quiet revival",
+    "summary": "Readers are returning to local shops for recommendations and community.",
+    "url": "#",
+    "timeAgo": "12h ago",
+    "reliability": {
+      "score": 72
+    }
+  },
+  {
+    "id": "sci-1",
+    "category": "science",
+    "title": "New study sheds light on the brain’s memory system",
+    "summary": "Researchers have identified key cells that help the brain organize long-term memories, opening doors to new treatments for memory disorders.",
+    "url": "#",
+    "timeAgo": "7h ago",
+    "reliability": {
+      "score": 92
+    }
+  },
+  {
+    "id": "sci-2",
+    "category": "science",
+    "title": "Telescope captures the clearest image yet of a young star system",
+    "summary": "Astronomers say the detail could explain how planets first take shape.",
+    "url": "#",
+    "timeAgo": "14h ago",
+    "reliability": {
+      "score": 90
+    }
+  },
+  {
+    "id": "health-1",
+    "category": "health",
+    "title": "Simple daily habits linked to better heart health",
+    "summary": "A long-running study points to sleep, movement and regular meals.",
+    "url": "#",
+    "timeAgo": "8h ago",
+    "reliability": {
+      "score": 86
+    }
+  },
+  {
+    "id": "health-2",
+    "category": "health",
+    "title": "Hospitals trial shorter waiting times with new scheduling tools",
+    "summary": "Early results suggest patients are seen sooner without extra staff.",
+    "url": "#",
+    "timeAgo": "15h ago",
+    "reliability": {
+      "score": 77
+    }
+  },
+  {
+    "id": "sport-1",
+    "category": "sports",
+    "title": "Underdogs reach the final after a dramatic shootout",
+    "summary": "The goalkeeper saved two penalties to send the small club through.",
+    "url": "#",
+    "timeAgo": "11h ago",
+    "reliability": {
+      "score": 83
+    }
+  },
+  {
+    "id": "sport-2",
+    "category": "sports",
+    "title": "Young sprinter breaks a national record",
+    "summary": "The 19-year-old finished well clear of the field in warm conditions.",
+    "url": "#",
+    "timeAgo": "16h ago",
+    "reliability": {
+      "score": 82
+    }
+  },
+  {
+    "id": "op-1",
+    "category": "opinion",
+    "title": "Why human connection still matters",
+    "summary": "In a world of screens, the writer argues, small conversations carry the most weight.",
+    "url": "#",
+    "timeAgo": "13h ago",
+    "reliability": {
+      "score": 70
+    }
+  },
+  {
+    "id": "op-2",
+    "category": "opinion",
+    "title": "The case for slower, better news",
+    "summary": "Readers deserve context, not just speed, says our weekend columnist.",
+    "url": "#",
+    "timeAgo": "18h ago",
+    "reliability": {
+      "score": 68
+    }
+  }
+]

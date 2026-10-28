@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="referrer" content="no-referrer">
+<title>PULSE FEED – The news. With context.</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Playfair+Display:wght@500;700;900&family=Source+Serif+4:wght@400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="home.css">
+<script src="theme.js"></script>
+</head>
+<body>
+
+<div class="topbar">
+  <div class="topbar-in">
+    <button class="drawer-btn" id="drawerToggle" type="button" aria-expanded="false" aria-controls="drawer"><span id="drawerIcon"></span>Saved<span class="badge" id="markCount" hidden>0</span></button>
+    <nav class="toplinks" aria-label="Account">
+      <a href="index.html" id="signIn">Sign in</a><span class="sep">|</span><a href="#" id="subscribe">Subscribe</a>
+    </nav>
+    <button class="icon-btn" id="themeToggle" type="button"></button>
+    <form class="search" id="searchForm" role="search">
+      <input id="searchInput" type="search" placeholder="Search articles…" aria-label="Search articles">
+      <button type="submit" id="searchBtn" aria-label="Search"></button>
+    </form>
+  </div>
+</div>
+
+<div class="sheet">
+  <header class="masthead">
+    <div class="side"><p>Real stories<br>Bigger perspectives</p><i></i></div>
+    <div class="brand">
+      <div class="title-row"><span class="rule"></span><h1>PULSE FEED</h1><span class="rule"></span></div>
+      <p class="tagline">The news. With context.</p>
+    </div>
+    <div class="side right"><p>Global news<br>Local impact</p><i></i></div>
+  </header>
+
+  <div class="dateline"><span id="today"></span></div>
+  <nav class="mainnav" id="mainNav" aria-label="Sections"></nav>
+
+  <section class="hero" id="hero" aria-label="Top story"></section>
+
+  <section class="cols">
+    <aside class="panel" aria-labelledby="catH">
+      <h2 id="catH">Categories</h2>
+      <ul class="catlist" id="catList"></ul>
+    </aside>
+    <section class="panel" aria-labelledby="latestH">
+      <h2 id="latestH">Latest articles</h2>
+      <div id="latest"></div>
+    </section>
+    <aside class="panel">
+      <h2>The briefing</h2>
+      <div id="briefing"></div>
+      <h2 class="mr">Most read</h2>
+      <ol class="mostread" id="mostRead"></ol>
+    </aside>
+  </section>
+</div>
+
+<div class="backdrop" id="backdrop"></div>
+<aside class="drawer" id="drawer" aria-label="Saved stories">
+  <div class="drawer-head">
+    <h2>Saved stories <span id="savedCount">0</span></h2>
+    <button class="icon-btn" id="drawerClose" type="button" aria-label="Close saved stories"></button>
+  </div>
+  <div class="drawer-body" id="savedList"></div>
+</aside>
+
+<script src="config.js"></script>
+<script src="sample-data.js"></script>
+<script src="home.js"></script>
+</body>
+</html>
